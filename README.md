@@ -522,6 +522,6 @@ Released under the **MIT License** — see [LICENSE](LICENSE) for the full text.
 
 <div align="center">
 
-**Made with ❤️ · [Report a bug](https://github.com/girishlade111/online-ide/issues) · [Request a feature](https://github.com/girishlade111/online-ide/issues)**
+**Made with ❤️ · Built by [Girish Lade](https://ladestack.in) · [Report a bug](https://github.com/girishlade111/online-ide/issues) · [Request a feature](https://github.com/girishlade111/online-ide/issues)**
 
 </div>
